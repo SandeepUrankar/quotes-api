@@ -1,0 +1,32 @@
+{
+  "name": "quotes-api",
+  "version": "1.0.0",
+  "description": "A simple backend for quotes-api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepUrankar/quotes-api.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "express",
+    "fs",
+    "api",
+    "quotes",
+    "quotes-api"
+  ],
+  "author": "SandeepUrankar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SandeepUrankar/quotes-api/issues"
+  },
+  "homepage": "https://github.com/SandeepUrankar/quotes-api#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}

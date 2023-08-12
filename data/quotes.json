@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "author": "Linus Torvalds",
+    "quote": "Talk is cheap. Show me the code."
+  },
+  {
+    "id": 2,
+    "author": "Steve Jobs",
+    "quote": "Stay hungry, stay foolish."
+  },
+  {
+    "id": 3,
+    "author": "Albert Einstein",
+    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+  },
+  {
+    "id": 4,
+    "author": "Nelson Mandela",
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+  },
+  {
+    "id": 5,
+    "author": "Walt Disney",
+    "quote": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "id": 6,
+    "author": "Maya Angelou",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+  },
+  {
+    "id": 7,
+    "author": "Alan Turing",
+    "quote": "We can only see a short distance ahead, but we can see plenty there that needs to be done."
+  },
+  {
+    "id": 8,
+    "author": "Elon Musk",
+    "quote": "When something is important enough, you do it even if the odds are not in your favor."
+  },
+  {
+    "id": 9,
+    "author": "Margaret Mead",
+    "quote": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."
+  },
+  {
+    "id": 10,
+    "author": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+  },
+  {
+    "id": 11,
+    "author": "Helen Keller",
+    "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+  },
+  {
+    "id": 12,
+    "author": "Grace Hopper",
+    "quote": "The most damaging phrase in the language is: 'It's always been done that way.'"
+  },
+  {
+    "id": 13,
+    "author": "Rosa Parks",
+    "quote": "You must never be fearful about what you are doing when it is right."
+  },
+  {
+    "id": 14,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing."
+  },
+  {
+    "id": 15,
+    "author": "Malala Yousafzai",
+    "quote": "We realize the importance of our voices only when we are silenced."
+  },
+  {
+    "id": 16,
+    "author": "Henry Ford",
+    "quote": "Whether you think you can, or you think you can't – you're right."
+  },
+  {
+    "id": 17,
+    "author": "Confucius",
+    "quote": "It does not matter how slowly you go as long as you do not stop."
+  },
+  {
+    "id": 18,
+    "author": "Carl Sagan",
+    "quote": "Somewhere, something incredible is waiting to be known."
+  },
+  {
+    "id": 19,
+    "author": "Oprah Winfrey",
+    "quote": "The biggest adventure you can take is to live the life of your dreams."
+  },
+  {
+    "id": 20,
+    "author": "Neil Gaiman",
+    "quote": "The one thing that you have that nobody else has is you. Your voice, your mind, your story, your vision. So write and draw and build and play and dance and live as only you can."
+  },
+  {
+    "id": 21,
+    "author": "Richard Feynman",
+    "quote": "I would rather have questions that can't be answered than answers that can't be questioned."
+  },
+  {
+    "id": 22,
+    "author": "Thomas Edison",
+    "quote": "I have not failed. I've just found 10,000 ways that won't work."
+  },
+  {
+    "id": 23,
+    "author": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal; as time will show."
+  },
+  {
+    "id": 24,
+    "author": "Stephen Covey",
+    "quote": "The key is not to prioritize what's on your schedule, but to schedule your priorities."
+  },
+  {
+    "id": 25,
+    "author": "Mae Jemison",
+    "quote": "Don't let anyone rob you of your imagination, your creativity, or your curiosity. It's your place in the world; it's your life."
+  },
+  {
+    "id": 26,
+    "author": "Eleanor Roosevelt",
+    "quote": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "id": 27,
+    "author": "Bill Gates",
+    "quote": "Your most unhappy customers are your greatest source of learning."
+  },
+  {
+    "id": 28,
+    "author": "Mark Twain",
+    "quote": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."
+  },
+  {
+    "id": 29,
+    "author": "J.K. Rowling",
+    "quote": "It is our choices that show what we truly are, far more than our abilities."
+  },
+  {
+    "id": 30,
+    "author": "Yoda",
+    "quote": "Do, or do not. There is no try."
+  },
+  {
+    "id": 31,
+    "author": "Swami Sivananda",
+    "quote": "Put your heart, mind, and soul into even your smallest acts. This is the secret of success."
+  },
+  {
+    "id": 32,
+    "author": "Malcolm X",
+    "quote": "Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."
+  },
+  {
+    "id": 33,
+    "author": "William Gibson",
+    "quote": "The future is already here – it's just not evenly distributed."
+  },
+  {
+    "id": 34,
+    "author": "Rabindranath Tagore",
+    "quote": "You can't cross the sea merely by standing and staring at the water."
+  },
+  {
+    "id": 35,
+    "author": "George Bernard Shaw",
+    "quote": "Progress is impossible without change, and those who cannot change their minds cannot change anything."
+  },
+  {
+    "id": 36,
+    "author": "Sundar Pichai",
+    "quote": "Wear your failure as a badge of honor and start again."
+  },
+  {
+    "id": 37,
+    "author": "Voltaire",
+    "quote": "Judge a man by his questions rather than by his answers."
+  },
+  {
+    "id": 38,
+    "author": "C.S. Lewis",
+    "quote": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "id": 39,
+    "author": "Muhammad Ali",
+    "quote": "Don't count the days; make the days count."
+  },
+  {
+    "id": 40,
+    "author": "Ralph Waldo Emerson",
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+  },
+  {
+    "id": 41,
+    "author": "Sheryl Sandberg",
+    "quote": "We need women at all levels, including the top, to change the dynamic, reshape the conversation, to make sure women's voices are heard and heeded, not overlooked and ignored."
+  },
+  {
+    "id": 42,
+    "author": "Warren Buffet",
+    "quote": "The more you learn, the more you earn."
+  },
+  {
+    "id": 43,
+    "author": "J.R.R. Tolkien",
+    "quote": "Not all those who wander are lost."
+  },
+  {
+    "id": 44,
+    "author": "Pablo Picasso",
+    "quote": "Every child is an artist. The problem is how to remain an artist once we grow up."
+  },
+  {
+    "id": 45,
+    "author": "Jane Goodall",
+    "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make."
+  },
+  {
+    "id": 46,
+    "author": "John Lennon",
+    "quote": "Time you enjoy wasting is not wasted time."
+  },
+  {
+    "id": 47,
+    "author": "Audrey Hepburn",
+    "quote": "Nothing is impossible, the word itself says 'I'm possible'!"
+  },
+  {
+    "id": 48,
+    "author": "Rumi",
+    "quote": "The wound is the place where the Light enters you."
+  },
+  {
+    "id": 49,
+    "author": "Michael Jordan",
+    "quote": "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed."
+  },
+  {
+    "id": 50,
+    "author": "Marie Curie",
+    "quote": "Life is not easy for any of us. But what of that? We must have perseverance and, above all, confidence in ourselves."
+  },
+  {
+    "id": 51,
+    "author": "Hermann Hesse",
+    "quote": "Some of us think holding on makes us strong, but sometimes it is letting go."
+  },
+  {
+    "id": 52,
+    "author": "Benjamin Franklin",
+    "quote": "An investment in knowledge pays the best interest."
+  },
+  {
+    "id": 53,
+    "author": "Vincent van Gogh",
+    "quote": "I am seeking. I am striving. I am in it with all my heart."
+  },
+  {
+    "id": 54,
+    "author": "Socrates",
+    "quote": "The only true wisdom is in knowing you know nothing."
+  },
+  {
+    "id": 55,
+    "author": "Eleanor Roosevelt",
+    "quote": "Do what you feel in your heart to be right – for you'll be criticized anyway."
+  },
+  {
+    "id": 56,
+    "author": "Thomas Jefferson",
+    "quote": "I find that the harder I work, the more luck I seem to have."
+  },
+  {
+    "id": 57,
+    "author": "Maya Angelou",
+    "quote": "If you don't like something, change it. If you can't change it, change your attitude."
+  },
+  {
+    "id": 58,
+    "author": "Aristotle",
+    "quote": "It is during our darkest moments that we must focus to see the light."
+  },
+  {
+    "id": 59,
+    "author": "Stephen Hawking",
+    "quote": "Remember to look up at the stars and not down at your feet."
+  },
+  {
+    "id": 60,
+    "author": "Napoleon Hill",
+    "quote": "Whatever the mind can conceive and believe, it can achieve."
+  },
+  {
+    "id": 61,
+    "author": "Roald Dahl",
+    "quote": "Those who don't believe in magic will never find it."
+  },
+  {
+    "id": 62,
+    "author": "Martin Luther King Jr.",
+    "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+  },
+  {
+    "id": 63,
+    "author": "Ayn Rand",
+    "quote": "The question isn't who is going to let me; it's who is going to stop me."
+  },
+  {
+    "id": 64,
+    "author": "Johann Wolfgang von Goethe",
+    "quote": "Magic is believing in yourself. If you can do that, you can make anything happen."
+  },
+  {
+    "id": 65,
+    "author": "Abraham Lincoln",
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years."
+  },
+  {
+    "id": 66,
+    "author": "Anne Frank",
+    "quote": "I still believe, in spite of everything, that people are truly good at heart."
+  },
+  {
+    "id": 67,
+    "author": "Leo Tolstoy",
+    "quote": "If you want to be happy, be."
+  },
+  {
+    "id": 68,
+    "author": "Winston Churchill",
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "id": 69,
+    "author": "Dr. Seuss",
+    "quote": "Why fit in when you were born to stand out?"
+  },
+  {
+    "id": 70,
+    "author": "George Eliot",
+    "quote": "It's never too late to be what you might have been."
+  },
+  {
+    "id": 71,
+    "author": "Kurt Vonnegut",
+    "quote": "We are what we pretend to be, so we must be careful about what we pretend to be."
+  },
+  {
+    "id": 72,
+    "author": "Coco Chanel",
+    "quote": "The most courageous act is still to think for yourself. Aloud."
+  },
+  {
+    "id": 73,
+    "author": "Helen Keller",
+    "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+  },
+  {
+    "id": 74,
+    "author": "Ray Bradbury",
+    "quote": "We are all fools in love."
+  },
+  {
+    "id": 75,
+    "author": "Henry David Thoreau",
+    "quote": "Go confidently in the direction of your dreams. Live the life you have imagined."
+  },
+  {
+    "id": 76,
+    "author": "Jimi Hendrix",
+    "quote": "Knowledge speaks, but wisdom listens."
+  },
+  {
+    "id": 77,
+    "author": "Dalai Lama",
+    "quote": "The purpose of our lives is to be happy."
+  },
+  {
+    "id": 78,
+    "author": "J.R.R. Tolkien",
+    "quote": "Even the darkest night will end and the sun will rise."
+  },
+  {
+    "id": 79,
+    "author": "Maya Angelou",
+    "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+  },
+  {
+    "id": 80,
+    "author": "Albert Einstein",
+    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+  },
+  {
+    "id": 81,
+    "author": "Steve Jobs",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+  },
+  {
+    "id": 82,
+    "author": "Coco Chanel",
+    "quote": "Success is most often achieved by those who don’t know that failure is inevitable."
+  },
+  {
+    "id": 83,
+    "author": "Eleanor Roosevelt",
+    "quote": "Do what you feel in your heart to be right – for you’ll be criticized anyway."
+  },
+  {
+    "id": 84,
+    "author": "Napoleon Hill",
+    "quote": "The starting point of all achievement is desire."
+  },
+  {
+    "id": 85,
+    "author": "Audrey Hepburn",
+    "quote": "Nothing is impossible, the word itself says 'I'm possible'!"
+  },
+  {
+    "id": 86,
+    "author": "Elon Musk",
+    "quote": "Persistence is very important. You should not give up unless you are forced to give up."
+  },
+  {
+    "id": 87,
+    "author": "Walt Disney",
+    "quote": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "id": 88,
+    "author": "Maya Angelou",
+    "quote": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+  },
+  {
+    "id": 89,
+    "author": "Carl Sagan",
+    "quote": "Somewhere, something incredible is waiting to be known."
+  },
+  {
+    "id": 90,
+    "author": "Mark Twain",
+    "quote": "The secret of getting ahead is getting started."
+  },
+  {
+    "id": 91,
+    "author": "Rosa Parks",
+    "quote": "You must never be fearful about what you are doing when it is right."
+  },
+  {
+    "id": 92,
+    "author": "Malcolm X",
+    "quote": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
+  },
+  {
+    "id": 93,
+    "author": "Oprah Winfrey",
+    "quote": "The biggest adventure you can take is to live the life of your dreams."
+  },
+  {
+    "id": 94,
+    "author": "Albert Einstein",
+    "quote": "A person who never made a mistake never tried anything new."
+  },
+  {
+    "id": 95,
+    "author": "Stephen Hawking",
+    "quote": "Remember to look up at the stars and not down at your feet."
+  },
+  {
+    "id": 96,
+    "author": "Vincent van Gogh",
+    "quote": "I am seeking. I am striving. I am in it with all my heart."
+  },
+  {
+    "id": 97,
+    "author": "Helen Keller",
+    "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+  },
+  {
+    "id": 98,
+    "author": "J.K. Rowling",
+    "quote": "It is our choices that show what we truly are, far more than our abilities."
+  },
+  {
+    "id": 99,
+    "author": "Martin Luther King Jr.",
+    "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+  },
+  {
+    "id": 100,
+    "author": "Swami Sivananda",
+    "quote": "Put your heart, mind, and soul into even your smallest acts. This is the secret of success."
+  }
+]
