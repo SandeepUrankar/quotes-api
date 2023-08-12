@@ -5,7 +5,6 @@ let quotes = null;
 
 function loadData() {
   if (quotes) {
-    console.log("already opn");
     return;
   }
   const FILE_PATH = path.join(__dirname, "../data/quotes.json");
