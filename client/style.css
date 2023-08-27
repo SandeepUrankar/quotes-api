@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Raleway:wght@400;700&display=swap");
+
+body {
+  background-color: #cff5ff;
+}
+
+.container {
+  background-color: #262d33;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 4rem 2rem;
+  max-width: 20rem;
+  margin-top: 2rem;
+}
+
+.quote {
+  color: #fff;
+  font-family: Raleway, "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.author {
+  color: #d9dadb;
+  font-family: Raleway, "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
