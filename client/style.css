@@ -42,6 +42,16 @@ body {
   color: #fff;
 }
 
+.quote__btn {
+  border: none;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.quote__btn:hover,
+.quote__btn:focus {
+  cursor: pointer;
+}
+
 @media only screen and (max-width: 500px) {
   .container {
     min-width: 8rem;
