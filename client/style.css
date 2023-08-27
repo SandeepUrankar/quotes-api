@@ -13,8 +13,8 @@ body {
   justify-content: center;
   border-radius: 10px;
   padding: 4rem 2rem;
-  min-width: 14rem;
-  max-width: 30rem;
+  min-width: 10rem;
+  max-width: 25rem;
   margin-top: 2rem;
 }
 
@@ -43,6 +43,11 @@ body {
 }
 
 @media only screen and (max-width: 500px) {
+  .container {
+    min-width: 8rem;
+    max-width: 12rem;
+  }
+
   .quote {
     font-size: 1.5rem;
   }
