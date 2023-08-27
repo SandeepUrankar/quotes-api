@@ -19,11 +19,12 @@ async function display() {
       quoteElement.innerHTML = quote.quote;
       authorElement.textContent = quote.author;
     }
-    console.log(quote);
+    // console.log(quote);
   } catch (error) {
     console.error("Error while fetching data : ", error);
   }
 }
+display();
 getQuoteButton?.addEventListener("click", () => {
   display();
 });

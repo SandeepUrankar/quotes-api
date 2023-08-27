@@ -12,9 +12,11 @@ body {
   align-items: center;
   justify-content: center;
   border-radius: 10px;
-  padding: 4rem 2rem;
+  padding: 1rem 2rem;
   min-width: 10rem;
   max-width: 25rem;
+  min-height: 90vh;
+
   margin-top: 2rem;
 }
 
@@ -54,8 +56,9 @@ body {
 
 @media only screen and (max-width: 500px) {
   .container {
-    min-width: 8rem;
+    min-width: 10rem;
     max-width: 12rem;
+    min-height: 80vh;
   }
 
   .quote {
